@@ -1,0 +1,31 @@
+{
+  "name": "node-highlight-react",
+  "description": "Syntax highlight for React.js using node-highlight",
+  "version": "1.0.0",
+  "author": {
+    "name": "Devil64-Dev",
+    "email": "devil64dev@gmail.com",
+    "url": "https://github.com/Devil64-Dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Devil64-Dev/node-highlight-react.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Devil64-Dev/node-highlight-react/issues"
+  },
+  "homepage": "https://github.com/Devil64-Dev/node-highlight-react/#readme",
+  "license": "MIT",
+  "dependencies": {
+    "node-highlight": ">=1.0.5"
+  },
+
+  "peerDependencies": {
+    "react": ">=16.14.0"
+  },
+  "keywords": ["syntax", "node-highlight", "highlight", "react"],
+  "type": "module",
+  "types": "./index.d.ts",
+  "main": "./index.mjs",
+  "exports": "./index.mjs"
+}
