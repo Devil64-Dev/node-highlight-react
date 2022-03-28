@@ -9,7 +9,7 @@
     "test": "ts-node ./src/test/setup.ts"
   },
   "dependencies": {
-    "node-highlight": "^1.0.6",
+    "node-highlight": "^1.0.7",
     "react": "^17.0.2"
   },
   "devDependencies": {
