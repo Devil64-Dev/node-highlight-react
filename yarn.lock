@@ -3402,7 +3402,7 @@ __metadata:
     eslint-import-resolver-typescript: ^2.5.0
     eslint-plugin-import: ^2.25.4
     html-webpack-plugin: ^5.5.0
-    node-highlight: ^1.0.5
+    node-highlight: ^1.0.6
     react: ^17.0.2
     react-dom: ^17.0.2
     rollup: ^2.70.1
@@ -3415,10 +3415,10 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"node-highlight@npm:^1.0.5":
-  version: 1.0.5
-  resolution: "node-highlight@npm:1.0.5"
-  checksum: 98c771890cdb0cf8968a8b3bc028cb9b9c084e6bd05a6f330e40bc9a6fcbee31cfdf6de079573eea7261b5019712739cfbe6c8e33d92d99449f07d807dec53d7
+"node-highlight@npm:^1.0.6":
+  version: 1.0.6
+  resolution: "node-highlight@npm:1.0.6"
+  checksum: be5d56958a0cad6110ad49b1ce4d058ebbfed24cb24cffaae263321013d330cc0cef9e0522c3eb82afbcdb6559fcdbf9168d86d6b1dab44a94d4b4c05628142e
   languageName: node
   linkType: hard
 

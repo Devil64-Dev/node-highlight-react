@@ -15,7 +15,7 @@ npm: `npm install node-highlight-react`
 This exports the core highlight functions `highlight`, `highlightSync`, and the
 ready to use React component `CodeHighlight`.
 
-The `highlightSync` returns an array of React child's with the properties
+The `highlightSync` returns an array of React child's with the properties:
 key, className and children. For asynchronous code use `highlight`. See `Element` type
 for more help.
 

@@ -46,4 +46,9 @@ declare const highlightSync: (
   prefix?: string,
 ) => CodeElement[];
 
-export { CodeHighlight, highlightSync, highlight };
+export {
+  CodeHighlight,
+  highlightSync,
+  highlight,
+  NativeLanguages,
+};
