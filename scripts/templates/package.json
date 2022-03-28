@@ -1,7 +1,7 @@
 {
   "name": "node-highlight-react",
   "description": "Syntax highlight for React.js using node-highlight",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": {
     "name": "Devil64-Dev",
     "email": "devil64dev@gmail.com",
@@ -17,7 +17,7 @@
   "homepage": "https://github.com/Devil64-Dev/node-highlight-react/#readme",
   "license": "MIT",
   "dependencies": {
-    "node-highlight": ">=1.0.6"
+    "node-highlight": ">=1.0.7"
   },
 
   "peerDependencies": {
